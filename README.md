@@ -1,2 +1,2 @@
 # Wedding
-Wedding
+Wedding default Template
