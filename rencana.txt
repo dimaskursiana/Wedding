@@ -1,2 +1,6 @@
 wedding website
 Struktur data dasar
+
+C#
+Javascript
+Xamarin
